@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="48"
+   height="48"
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="svg1"
+   inkscape:export-filename="logo1.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   sodipodi:docname="logo.svg"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showguides="true"
+     inkscape:zoom="11.313708"
+     inkscape:cx="21.478369"
+     inkscape:cy="26.472311"
+     inkscape:window-width="1299"
+     inkscape:window-height="699"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <defs
+     id="defs1">
+    <inkscape:path-effect
+       effect="powerclip"
+       message=""
+       id="path-effect2"
+       is_visible="true"
+       lpeversion="1"
+       inverse="true"
+       flatten="false"
+       hide_clip="false" />
+    <inkscape:path-effect
+       effect="powermask"
+       id="path-effect1"
+       is_visible="true"
+       lpeversion="1"
+       uri="#mask-powermask-path-effect1"
+       invert="false"
+       hide_mask="false"
+       background="true"
+       background_color="#ffffffff" />
+    <inkscape:path-effect
+       effect="powermask"
+       id="path-effect7"
+       is_visible="true"
+       lpeversion="1"
+       uri="#mask-powermask-path-effect7"
+       invert="false"
+       hide_mask="false"
+       background="true"
+       background_color="#ffffffff" />
+    <inkscape:path-effect
+       effect="powermask"
+       id="path-effect6"
+       is_visible="true"
+       lpeversion="1"
+       uri="#mask-powermask-path-effect6"
+       invert="false"
+       hide_mask="false"
+       background="true"
+       background_color="#ffffffff" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect5"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,3.6600415,0,1 @ F,0,0,1,0,2.5402633,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="powermask"
+       id="path-effect4"
+       is_visible="true"
+       lpeversion="1"
+       uri="#mask-powermask-path-effect4"
+       invert="false"
+       hide_mask="false"
+       background="true"
+       background_color="#ffffffff" />
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter10"
+       x="-0.068165464"
+       y="-0.071733353"
+       width="1.1457984"
+       height="1.1534297">
+      <feFlood
+         result="flood"
+         in="SourceGraphic"
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         id="feFlood9" />
+      <feGaussianBlur
+         result="blur"
+         in="SourceGraphic"
+         stdDeviation="1.500000"
+         id="feGaussianBlur9" />
+      <feOffset
+         result="offset"
+         in="blur"
+         dx="0.500000"
+         dy="0.500000"
+         id="feOffset9" />
+      <feComposite
+         result="comp1"
+         operator="in"
+         in="flood"
+         in2="offset"
+         id="feComposite9" />
+      <feComposite
+         result="comp2"
+         operator="over"
+         in="SourceGraphic"
+         in2="comp1"
+         id="feComposite10" />
+    </filter>
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask-powermask-path-effect1">
+      <path
+         id="path1"
+         style="fill:#ff0000;stroke-width:1.06185"
+         d="M 0.57614391,24.040361 H 50.629706 V 43.85008 H 0.57614391 Z" />
+    </mask>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2">
+      <rect
+         style="display:none;fill:#000000"
+         id="rect2"
+         width="51.015377"
+         height="19.90844"
+         x="-1.3825306"
+         y="29.033142"
+         d="M -1.3825306,29.033142 H 49.632846 v 19.90844 H -1.3825306 Z" />
+      <path
+         id="lpe_path-effect2"
+         style="fill:#000000"
+         class="powerclip"
+         d="M 0.7796878,8.751593 H 46.513731 V 41.221906 H 0.7796878 Z m -2.1622184,20.281549 v 19.90844 H 49.632846 v -19.90844 z" />
+    </clipPath>
+  </defs>
+  <path
+     id="rect3"
+     style="fill:#000000"
+     inkscape:label="BG"
+     d="M -0.96777141,-1.5207837 H 48.665075 V 49.218089 H -0.96777141 Z"
+     sodipodi:insensitive="true"
+     inkscape:highlight-color="#ff0000" />
+  <g
+     id="g3"
+     transform="matrix(0.81872718,0,0,0.81872718,5.0371931,4.3541644)">
+    <path
+       d="m 20.416599,17.62148 h -7.833401 q -1.373185,0 -1.934943,0.530549 -0.530549,0.53055 -0.530549,1.841319 v 3.089667 h 8.145487 l -0.312088,3.869887 h -7.833399 v 9.019333 H 5.7796878 v -17.69537 q 0,-2.465493 1.061098,-3.495383 1.0923068,-1.029889 3.7138432,-1.029889 h 9.86197 z m 21.097132,-3.869887 v 19.973612 q 0,1.029889 -0.624175,1.778899 -0.624176,0.717802 -1.466813,0.717802 -2.153406,0 -3.52659,-2.496701 L 28.218795,21.709829 V 35.972235 H 23.880777 V 13.751593 h 4.181975 l 9.112959,14.543286 V 13.751593 Z"
+       id="text1"
+       style="font-size:14.6667px;font-family:Viga;-inkscape-font-specification:Viga;display:inline;fill:#ff7f00;fill-opacity:1;stroke:none;stroke-width:2.128;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       aria-label="FN"
+       inkscape:label="FN"
+       clip-path="url(#clipPath2)"
+       inkscape:path-effect="#path-effect2"
+       inkscape:original-d="m 20.416599,17.62148 h -7.833401 q -1.373185,0 -1.934943,0.530549 -0.530549,0.53055 -0.530549,1.841319 v 3.089667 h 8.145487 l -0.312088,3.869887 h -7.833399 v 9.019333 H 5.7796878 v -17.69537 q 0,-2.465493 1.061098,-3.495383 1.0923068,-1.029889 3.7138432,-1.029889 h 9.86197 z m 21.097132,-3.869887 v 19.973612 q 0,1.029889 -0.624175,1.778899 -0.624176,0.717802 -1.466813,0.717802 -2.153406,0 -3.52659,-2.496701 L 28.218795,21.709829 V 35.972235 H 23.880777 V 13.751593 h 4.181975 l 9.112959,14.543286 V 13.751593 Z"
+       transform="translate(-0.55301223,-5.1153631)" />
+    <path
+       d="m 16.260294,31.936749 0.02032,1.564932 q -0.0813,1.483637 -0.365829,2.499827 -0.284533,1.01619 -1.117809,1.849466 -1.382018,1.382018 -4.024112,1.382018 -3.1095412,0 -4.2679977,-0.812951 Q 5.3464137,37.586765 5.3464137,35.432442 V 24.762448 h 5.6296923 q 2.438856,0 3.820874,1.382018 1.117809,1.117809 1.321047,2.723389 0.142267,1.138133 0.142267,3.068894 z m -3.434722,3.881845 q 0.386152,-0.467447 0.487771,-1.280399 0.121943,-0.833276 0.121943,-2.581123 0,-1.747846 -0.121943,-2.520151 -0.101619,-0.792628 -0.487771,-1.260075 -0.731657,-0.894247 -2.113675,-0.894247 H 8.1714218 v 8.007576 q 0,0.812952 0.5487426,1.117809 0.5487426,0.304857 1.9510846,0.304857 1.422666,0 2.154323,-0.894247 z m 15.446095,3.414398 H 23.15007 q -2.438856,0 -3.434722,-0.833275 -0.975543,-0.8536 -0.975543,-2.987599 v -10.64967 h 9.531862 v 2.520151 h -6.706854 v 3.394074 h 4.694798 l -0.203238,2.520151 h -4.49156 v 2.012056 q 0,0.8536 0.386152,1.178781 0.386153,0.32518 1.402343,0.32518 h 4.918359 z M 41.095976,24.762448 36.543445,38.420041 q -0.365829,0.934894 -1.300723,0.934894 -0.975543,0 -1.341371,-0.934894 l -4.49156,-13.657593 h 2.926627 l 2.906304,9.430242 2.906303,-9.430242 z"
+       id="text2"
+       style="font-size:20.3238px;font-family:Viga;-inkscape-font-specification:Viga;display:inline;fill:#ffffff;fill-opacity:1;stroke-width:1.38572"
+       aria-label="DEV" />
+  </g>
+</svg>
